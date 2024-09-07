@@ -1,7 +1,7 @@
 ![Screenshot1](Images/Screenshot1.png)
 ![Screenshot2](Images/Screenshot2.png)
 
-# PharmaSearch
+# PharmaSearch - Imersão Dev com Google Gemini
 
 **PharmaSearch** é uma aplicação web simples que permite aos usuários buscar por informações de medicamentos de forma rápida e eficiente. A aplicação utiliza HTML, CSS e JavaScript para a interface e se conecta à **Bulario API** para obter dados sobre medicamentos.
 
