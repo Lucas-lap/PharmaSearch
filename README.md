@@ -1,5 +1,5 @@
-![Screenshot1](images/screenshot1.png)
-![Screenshot2](images/screenshot1.png)
+![Screenshot1](Images/Screenshot1.png)
+![Screenshot2](Images/Screenshot2.png)
 
 # PharmaSearch
 
